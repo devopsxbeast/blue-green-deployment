@@ -1,0 +1,3 @@
+#
+
+echo "App is stopped"
